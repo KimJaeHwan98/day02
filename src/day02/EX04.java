@@ -13,7 +13,6 @@ public class EX04 {public static void main(String[] args) {
 	
 	double d = 1.1111;
 	float f = (float)1.1111;
-	float f = 1.1111f;
 	//8바이트값을 4바이트로 강제 형변환으로 넣어준것이다. 뒤쪽에 f를 붙여줘도 변환한다.
  	}
 
