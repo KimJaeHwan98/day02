@@ -23,11 +23,11 @@ public static void main(String[] args) {
 	System.out.println("=========================");
 	System.out.println("이름: "+name);
 	System.out.println("=========================");
-	System.out.println(name+"님의 국어 점수 :" + k);
-	System.out.println(name+"님의 영어 점수 :"+e);
-	System.out.println(name+"님의 수학 점수:"+s);
+	System.out.println("국어 :" + k);
+	System.out.println("영어 :"+e);
+	System.out.println("수학 :"+s);
 	System.out.println("=========================");
-	System.out.println("합계"+n);
+	System.out.println("합계 :"+n);
 	System.out.println("=========================");
 	
 	
