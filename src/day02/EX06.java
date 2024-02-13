@@ -5,7 +5,7 @@ public class EX06 { public static void main(String[] args) {
 		double w = 173.3;
 		char d = 'B';
 		final String ad = "김말이";
-		
+		w = 174.4;
 		System.out.println("이름\t :"+ad);
 		System.out.println("나이\t :"+age);
 		System.out.println("키\t :"+w);
